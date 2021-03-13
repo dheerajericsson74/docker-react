@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+# aws beanstak link
+# http://dockerreact-env.eba-mxarjsby.us-east-1.elasticbeanstalk.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
